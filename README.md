@@ -1,5 +1,9 @@
-ARM Inject
-===
+Made changes to the codebase and now we are able to compile the sources and test the hook.
+
+
+
+# ARM INJECT
+
 
 An application to dynamically inject a shared object into a running process on
 ARM architectures and hook API calls.
@@ -84,6 +88,6 @@ blog post "[Android hacking: hooking system functions used by Dalvik](http://sha
 
 ## License
 
-Released under the BSD license.  
-Copyright &copy; 2015, Simone Margaritelli <evilsocket@gmail.com>  
+Released under the BSD license.
+Copyright &copy; 2015, Simone Margaritelli <evilsocket@gmail.com>
 All rights reserved.
